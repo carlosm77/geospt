@@ -20,3 +20,4 @@ importFrom("stats", "cor", "delete.response", "median", "model.extract", "model.
 importFrom("methods", "as")
 importFrom("graphics", "abline", "box", "boxplot", "identify", "par", "points", "segments", "strheight", "strwidth", "text", "legend")
 importFrom("utils", "setTxtProgressBar", "txtProgressBar")
+
