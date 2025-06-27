@@ -20,7 +20,7 @@ Authors@R: c(person(given = "Carlos",
                       comment = c(ORCID = "0000-0002-0296-4511")))
 Maintainer: Ali Santacruz <amsantac@unal.edu.co>
 Depends: R (>= 3.5.0), gstat, genalg, MASS, sp, minqa
-Imports: limSolve, fields, gsl, plyr, TeachingDemos, sgeostat,
+Imports: fields, gsl, plyr, TeachingDemos, sgeostat,
         grDevices, stats, methods, graphics, utils
 Description: Estimation of the variogram through trimmed mean, radial basis 
         functions (optimization, prediction and cross-validation), summary
